@@ -1,0 +1,7 @@
+C:\Users\redacted\source\repos\nightlight48\nightlight48\bin\Release\nightlight48.exe.config
+C:\Users\redacted\source\repos\nightlight48\nightlight48\bin\Release\nightlight48.exe
+C:\Users\redacted\source\repos\nightlight48\nightlight48\bin\Release\nightlight48.pdb
+C:\Users\redacted\source\repos\nightlight48\nightlight48\obj\Release\nightlight48.csproj.AssemblyReference.cache
+C:\Users\redacted\source\repos\nightlight48\nightlight48\obj\Release\nightlight48.csproj.CoreCompileInputs.cache
+C:\Users\redacted\source\repos\nightlight48\nightlight48\obj\Release\nightlight48.exe
+C:\Users\redacted\source\repos\nightlight48\nightlight48\obj\Release\nightlight48.pdb
